@@ -1,5 +1,8 @@
 {
   "name": "react-google-chart",
   "version": "0.1.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "react-google-charts": "^4.0.0"
+  }
 }
